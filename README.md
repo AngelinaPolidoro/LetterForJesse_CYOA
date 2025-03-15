@@ -1,5 +1,6 @@
 # LetterForJesse_CYOA
 Letter For Jesse is a web based Chose Your Own Adventure game about reconnecting with a long lost friend. 
+Play the game at: https://angelinapolidoro.github.io/LetterForJesse_CYOA/
 
 This game was made as a project for my DIG2500 Fundamentals of Interactive Design class at the University of Central Florida in the fall of 2024. The coding (HTML and CSS), artwork, and writing were done by me. The only thing that was not created by me was the music on the first page of the game, which was created by hargissssound on freesound.org and is credited within the project. The skills I utelized for this project were: website creation, proficiency in HTML and CSS, story creation, narrative planning, and an understanding of interactive design. 
 
