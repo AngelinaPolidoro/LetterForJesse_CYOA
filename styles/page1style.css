@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+a {
+    color: #078d5c;
+    font-weight: bold;
+
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-image: url(cssbackgroundimage.png);
+    z-index: -1;
+}
+
+
+main {
+
+    background-color: #d9c3ba;
+    color: #3e1f12;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 50px;
+    z-index: 1;
+
+}
+
+.italicstuff {
+    display: inline-block;
+    font-style: italic;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+header {
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 2px 2px #cd9c83;
+}
+
+footer {
+    color: #3e1f12;
+    text-align: center;
+    background-color: rgb(255, 247, 240);
+    opacity: 0.7;
+    z-index: 1;
+}
